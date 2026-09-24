@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=实验室综合管理系统
+Comment=人脸识别和扫码出入库
+# 请把下面路径改成程序文件夹的实际位置（install_ubuntu.sh 会自动生成正确路径的快捷方式）
+Exec=bash -lc 'cd "/实际/路径/人脸+扫码" && ./run.sh'
+Terminal=false
+Categories=Utility;

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 运行时数据（含个人信息，不入库）
+warehouse_db.xlsx
+warehouse_db.bak
+实验室签到表.xlsx
+运行日志.log
+运行日志.old.log
+config.json
+.app.lock
+*.tmp
+
+# 旧版本备份
+main.py.bak
